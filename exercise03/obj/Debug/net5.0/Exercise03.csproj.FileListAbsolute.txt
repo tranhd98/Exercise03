@@ -1,0 +1,15 @@
+/Users/hungtran/Projects/Exercise03/Exercise03/bin/Debug/net5.0/Exercise03.deps.json
+/Users/hungtran/Projects/Exercise03/Exercise03/bin/Debug/net5.0/Exercise03.runtimeconfig.json
+/Users/hungtran/Projects/Exercise03/Exercise03/bin/Debug/net5.0/Exercise03.runtimeconfig.dev.json
+/Users/hungtran/Projects/Exercise03/Exercise03/bin/Debug/net5.0/Exercise03.dll
+/Users/hungtran/Projects/Exercise03/Exercise03/bin/Debug/net5.0/ref/Exercise03.dll
+/Users/hungtran/Projects/Exercise03/Exercise03/bin/Debug/net5.0/Exercise03.pdb
+/Users/hungtran/Projects/Exercise03/Exercise03/obj/Debug/net5.0/Exercise03.csproj.AssemblyReference.cache
+/Users/hungtran/Projects/Exercise03/Exercise03/obj/Debug/net5.0/Exercise03.GeneratedMSBuildEditorConfig.editorconfig
+/Users/hungtran/Projects/Exercise03/Exercise03/obj/Debug/net5.0/Exercise03.AssemblyInfoInputs.cache
+/Users/hungtran/Projects/Exercise03/Exercise03/obj/Debug/net5.0/Exercise03.AssemblyInfo.cs
+/Users/hungtran/Projects/Exercise03/Exercise03/obj/Debug/net5.0/Exercise03.csproj.CoreCompileInputs.cache
+/Users/hungtran/Projects/Exercise03/Exercise03/obj/Debug/net5.0/Exercise03.dll
+/Users/hungtran/Projects/Exercise03/Exercise03/obj/Debug/net5.0/ref/Exercise03.dll
+/Users/hungtran/Projects/Exercise03/Exercise03/obj/Debug/net5.0/Exercise03.pdb
+/Users/hungtran/Projects/Exercise03/Exercise03/obj/Debug/net5.0/Exercise03.genruntimeconfig.cache
